@@ -4,3 +4,4 @@
 [submodule "extern/pybind11"]
 	path = extern/pybind11
 	url = https://github.com/pybind/pybind11.git
+	branch = 3ebdc503d29c7f089b9a0bc1823add0dda76f40d
